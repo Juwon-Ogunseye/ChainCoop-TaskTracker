@@ -9,7 +9,7 @@
 
 - [ ] **Admin and UI/UX Tasks**
 
-  - Discuss with the UI/UX team about implementing an admin panel/ project status drop-down and also comfirm if the admin designs are ready (discussion completed, see [[Meeting with uiux team#Project Status Drop-Down]] for details):
+  - Discuss with the UI/UX team about implementing an admin panel/ project status drop-down and also comfirm if the admin designs are ready (discussion completed, see [[UI TEAM TASK#Project Status Drop-Down]] for details):
     - Coming Soon
     - Live (to invest)
     - Invested (projects should move to the portfolio)
@@ -34,7 +34,7 @@
   - Address discrepancies between the funds interface created by the UI team and the current implementation.
   -
 ## UI/UX Team Design Feedback]
--  we look into the design on figma and then check the design you created seems there is small discrepancy [[Meeting with uiux team#Discrepancy between UI/UX Design and frontend work]]
+-  we look into the design on figma and then check the design you created seems there is small discrepancy [[UI TEAM TASK#Discrepancy between UI/UX Design and frontend work]]
 
 
 

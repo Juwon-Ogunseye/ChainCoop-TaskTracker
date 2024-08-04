@@ -11,36 +11,15 @@
             "id": "7a5b38849c3008e5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "6385bb180f37659d",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "UI TEAM TASK.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "23b350c8ac310c47",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DEV TEAM TASKS.md",
+                "file": "Chain-Coop Team Tasks/DEV TEAM TASKS.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DEV TEAM TASKS.md",
+                "file": "Chain-Coop Team Tasks/DEV TEAM TASKS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DEV TEAM TASKS.md",
+                "file": "Chain-Coop Team Tasks/DEV TEAM TASKS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DEV TEAM TASKS.md"
+                "file": "Chain-Coop Team Tasks/DEV TEAM TASKS.md"
               }
             }
           }
@@ -167,10 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "23b350c8ac310c47",
+  "active": "7a5b38849c3008e5",
   "lastOpenFiles": [
-    "UI TEAM TASK.md",
-    "DEV TEAM TASKS.md",
+    "Chain-Coop Team Tasks/UI TEAM TASK.md",
+    "Chain-Coop Team Tasks/DEV TEAM TASKS.md",
+    "Meeting with uiux team.md",
     "Chain-Coop Team Tasks",
     "Untitled.canvas",
     "Untitled 1.canvas",
