@@ -1,15 +1,11 @@
-
-
 ---
 
 - [x] **Error Handling**
   - Fix the login links from the signup page; currently, they only work when used directly.
-  - [  ] Investigate using Google Signup API to simplify the process.
+  - [ ] Investigate using Google Signup API to simplify the process.
   
-
 - [ ] **Admin and UI/UX Tasks**
-
-  - Discuss with the UI/UX team about implementing an admin panel/ project status drop-down and also comfirm if the admin designs are ready (discussion completed, see [UI TEAM TASK#Project Status Drop-Down] for details):
+  - Discuss with the UI/UX team about implementing an admin panel/ project status drop-down and also confirm if the admin designs are ready (discussion completed, see [UI Team Task: Project Status Drop-Down](#ui-team-task-project-status-drop-down) for details):
     - Coming Soon
     - Live (to invest)
     - Invested (projects should move to the portfolio)
@@ -32,10 +28,12 @@
   - Activate the withdrawal feature.
   - Fix the add funds functionality.
   - Address discrepancies between the funds interface created by the UI team and the current implementation.
-  -
-## UI/UX Team Design Feedback]
--  we look into the design on figma and then check the design you created seems there is small discrepancy [[UI TEAM TASK#Discrepancy between UI/UX Design and frontend work]]
 
+## UI/UX Team Design Feedback
+- We looked into the design on Figma and then checked the design you created. It seems there is a small discrepancy. See [UI Team Task: Discrepancy between UI/UX Design and Frontend Work](#ui-team-task-discrepancy-between-uiux-design-and-frontend-work).
 
+## UI Team Task: Project Status Drop-Down
+Details about the discussion and implementation of the project status drop-down.
 
-
+## UI Team Task: Discrepancy between UI/UX Design and Frontend Work
+Details about the discrepancies between the UI/UX design and the frontend work.
