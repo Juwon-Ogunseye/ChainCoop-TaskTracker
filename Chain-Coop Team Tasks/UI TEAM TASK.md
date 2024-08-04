@@ -1,4 +1,4 @@
-Here’s a revised and organized version of your list:
+
 
 ---
 
