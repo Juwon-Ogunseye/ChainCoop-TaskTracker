@@ -20,7 +20,7 @@ Here’s a revised and organized version of your list:
 - [ ] **Links Card Page Discrepancy**
   - Correct the discrepancies between the actual page on the links card and the page designed by the UI team.
 
-- [ ] **Admin Blog/Newsletter Posting**
+- [ ] **Admin Blog/Newsletter Posting** 📅 2024-08-06 ⏫ ➕ 2024-08-05 ⏳ 2024-08-05 🆔
   - Implement a feature that allows admins to post the latest development blogs or newsletters from the admin side.
 
 - [ ] **Member Position Upgrades**

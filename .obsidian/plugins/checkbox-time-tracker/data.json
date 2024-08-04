@@ -1,0 +1,13 @@
+{
+  "targetCssClasses": [
+    "checkbox-time-tracker",
+    "ctt"
+  ],
+  "timeFormat": "HH:mm",
+  "separator": "-",
+  "enableDateInserting": true,
+  "dateFormat": "YYYY-MM-DD",
+  "enableDoingStatus": true,
+  "disableDoingStatusForSubTasks": false,
+  "autoIncrementOnSameTime": false
+}
