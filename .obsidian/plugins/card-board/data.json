@@ -15,17 +15,6 @@
             "tag": "dated",
             "data": {
               "collapsed": false,
-              "name": "Overdue",
-              "range": {
-                "tag": "before",
-                "data": 0
-              }
-            }
-          },
-          {
-            "tag": "dated",
-            "data": {
-              "collapsed": false,
               "name": "Today",
               "range": {
                 "tag": "before",
@@ -62,16 +51,25 @@
             "tag": "completed",
             "data": {
               "collapsed": false,
-              "index": 5,
+              "index": 4,
               "limit": 10,
               "name": "Completed"
             }
           }
         ],
-        "filters": [],
+        "filters": [
+          {
+            "tag": "fileFilter",
+            "data": "Chain-Coop Team Tasks/UI TEAM TASK.md"
+          },
+          {
+            "tag": "fileFilter",
+            "data": "Chain-Coop Team Tasks/DEV TEAM TASKS.md"
+          }
+        ],
         "filterPolarity": "Allow",
         "filterScope": "Both",
-        "name": "Chain Coop Task Boards",
+        "name": "Tasks",
         "showColumnTags": true,
         "showFilteredTags": true
       }

@@ -4,43 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "6eee06018f191b44",
+        "id": "a9a85c660549ae26",
         "type": "tabs",
         "children": [
           {
-            "id": "7a5b38849c3008e5",
+            "id": "3a97730f9620f522",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chain-Coop Team Tasks/DEV TEAM TASKS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "60752f6ae98a659a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Overall TASK.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dbf8f8c008b82bea",
-            "type": "leaf",
-            "state": {
-              "type": "card-board-view",
+              "type": "empty",
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chain-Coop Team Tasks/UI TEAM TASK.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chain-Coop Team Tasks/UI TEAM TASK.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Chain-Coop Team Tasks/UI TEAM TASK.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -168,15 +139,15 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "dbf8f8c008b82bea",
+  "active": "3a97730f9620f522",
   "lastOpenFiles": [
-    "Overall TASK.md",
     "Chain-Coop Team Tasks/UI TEAM TASK.md",
     "Chain-Coop Team Tasks/DEV TEAM TASKS.md",
+    "Untitled.canvas",
+    "README.md",
+    "Overall TASK.md",
     "Meeting with uiux team.md",
     "Chain-Coop Team Tasks",
-    "Untitled.canvas",
-    "Untitled 1.canvas",
-    "README.md"
+    "Untitled 1.canvas"
   ]
 }
