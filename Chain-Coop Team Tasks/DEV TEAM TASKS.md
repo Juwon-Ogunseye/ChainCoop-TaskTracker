@@ -9,7 +9,7 @@
 
 - [ ] **Admin and UI/UX Tasks**
 
-  - Discuss with the UI/UX team about implementing an admin panel/ project status drop-down and also comfirm if the admin designs are ready (discussion completed, see [[UI TEAM TASK#Project Status Drop-Down]] for details):
+  - Discuss with the UI/UX team about implementing an admin panel/ project status drop-down and also comfirm if the admin designs are ready (discussion completed, see [UI TEAM TASK#Project Status Drop-Down] for details):
     - Coming Soon
     - Live (to invest)
     - Invested (projects should move to the portfolio)
