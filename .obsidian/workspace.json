@@ -26,9 +26,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "23b350c8ac310c47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DEV TEAM TASKS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UI TEAM TASK.md",
+                "file": "DEV TEAM TASKS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UI TEAM TASK.md",
+                "file": "DEV TEAM TASKS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UI TEAM TASK.md"
+                "file": "DEV TEAM TASKS.md"
               }
             }
           }
@@ -155,9 +167,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6385bb180f37659d",
+  "active": "23b350c8ac310c47",
   "lastOpenFiles": [
     "UI TEAM TASK.md",
+    "DEV TEAM TASKS.md",
     "Chain-Coop Team Tasks",
     "Untitled.canvas",
     "Untitled 1.canvas",
