@@ -1,4 +1,4 @@
-Here’s a revised and organized version of your list:
+
 
 ---
 
@@ -43,7 +43,7 @@ The UI/UX team has responded to the discussion about implementing a project stat
 ## Estimated time to finish up the chain-coop website
 - Question by Seane
 
-## Discrepancy between UI/UX Design and  frontend work
+# discrepancy-between-ui-design-and-frontend-work
 - [ ] **Wallet Page Icons**
   - Address the issue where icons on the wallet page do not match the UI team’s design.
   - [ ] **Links Card Page Discrepancy**
