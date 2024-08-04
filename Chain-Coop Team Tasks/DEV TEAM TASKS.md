@@ -30,7 +30,7 @@
   - Address discrepancies between the funds interface created by the UI team and the current implementation.
 
 ## UI/UX Team Design Feedback
-- We looked into the design on Figma and then checked the design you created. It seems there is a small discrepancy. See [Discrepancy between UI/UX Design and Frontend Work](./UI%20TEAM%20TASK.md#discrepancy-between-uiux-design-and-frontend-work)
+- We looked into the design on Figma and then checked the design you created. It seems there is a small discrepancy. See [Discrepancy between UI/UX Design and Frontend Work](./UI%20TEAM%20TASK.md## Discrepancy between UI/UX Design and  frontend work)
 
 
 ## UI Team Task: Project Status Drop-Down
