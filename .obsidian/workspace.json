@@ -11,11 +11,96 @@
             "id": "3a97730f9620f522",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "markdown",
+              "state": {
+                "file": "Chain-Coop Team Tasks/DEVs TASKS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4d75bef8f306d951",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chain-Coop Team Tasks/DEVs TASKS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cc151bebec280027",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chain-Coop Team Tasks/UI TEAM TASKS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c4edf815bbaae68a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chain-Coop Team Tasks/UI TEAM TASKS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "582c6f2a286b1021",
+            "type": "leaf",
+            "state": {
+              "type": "card-board-view",
               "state": {}
             }
+          },
+          {
+            "id": "a7fedc59215e60c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chain-Coop Team Tasks/Website Development Progress.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5400bcde2a432bc4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chain-Coop Team Tasks/Website Development Progress.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cacf18d5c056c5d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chain-Coop Team Tasks/Website Development Progress.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -81,6 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Chain-Coop Team Tasks/Website Development Progress.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Chain-Coop Team Tasks/Website Development Progress.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +205,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Chain-Coop Team Tasks/Website Development Progress.md"
+              }
             }
           }
         ]
@@ -139,12 +228,15 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "3a97730f9620f522",
+  "active": "aa5a1f8d646b08f7",
   "lastOpenFiles": [
+    "Chain-Coop Team Tasks/UI TEAM TASKS.md",
+    "Chain-Coop Team Tasks/DEVs TASKS.md",
+    "Chain-Coop Team Tasks/Website Development Progress.md",
+    "README.md",
     "Chain-Coop Team Tasks/UI TEAM TASK.md",
     "Chain-Coop Team Tasks/DEV TEAM TASKS.md",
     "Untitled.canvas",
-    "README.md",
     "Overall TASK.md",
     "Meeting with uiux team.md",
     "Chain-Coop Team Tasks",
