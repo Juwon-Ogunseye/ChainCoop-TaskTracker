@@ -93,7 +93,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chain-Coop Team Tasks/Website Development Progress.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chain-Coop Team Tasks/Website Development Progress.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chain-Coop Team Tasks/Website Development Progress.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chain-Coop Team Tasks/Website Development Progress.md"
+                "file": "README.md"
               }
             }
           }
@@ -228,11 +228,11 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "aa5a1f8d646b08f7",
+  "active": "cacf18d5c056c5d4",
   "lastOpenFiles": [
+    "Chain-Coop Team Tasks/Website Development Progress.md",
     "Chain-Coop Team Tasks/UI TEAM TASKS.md",
     "Chain-Coop Team Tasks/DEVs TASKS.md",
-    "Chain-Coop Team Tasks/Website Development Progress.md",
     "README.md",
     "Chain-Coop Team Tasks/UI TEAM TASK.md",
     "Chain-Coop Team Tasks/DEV TEAM TASKS.md",
