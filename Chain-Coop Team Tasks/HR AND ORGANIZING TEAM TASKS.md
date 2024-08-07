@@ -7,6 +7,7 @@
 
 - [ ] **Select Marketing and Content Creator Candidate (Due Date: 2024-08-09)**
   - **Status:** Pending
+  - interview candidate that was recommended to us on Friday
   - **Action:** Reply to the selected candidate with our offer on Friday during the meeting and send it to her.
 
 - [ ] **Virtual Assistant Recruitment (Due Date: 2024-08-11)**
