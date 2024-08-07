@@ -11,7 +11,7 @@ Here’s a revised and organized version of your list:
 - [ ] **Button Modification**
   - Remove the "Join DAO" button and replace it with options to vote up or down.
 
-- [ ] **Proposal Owner Information**
+- [ ] **Proposal Owner Information** 📅  
   - Add a text box for entering the name of the proposal owner.
 
 - [x] **Wallet Page Icons** ✅ 2024-08-05

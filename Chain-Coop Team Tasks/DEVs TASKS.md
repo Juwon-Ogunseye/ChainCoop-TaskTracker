@@ -32,10 +32,23 @@
   - Activate the withdrawal feature.
   - Fix the add funds functionality.
   - Address discrepancies between the funds interface created by the UI team and the current implementation.
-  -
-## UI/UX Team Design Feedback]
--  we look into the design on figma and then check the design you created seems there is small discrepancy [[Meeting with uiux team#Discrepancy between UI/UX Design and frontend work]]
+## Backend Task and Implementation
+- [ ] Cloudinary account and keys 📅 2024-08-07
+- [ ] project portfolio management 📅 2024-08-12 ⏫ 
+
+## UI/UX Team Design Feedback
+-  we look into the design on figma and then check the design you created seems there is small discrepancy [[UI TEAM TASKS#Discrepancy between UI/UX Design and frontend work]]
+
+### Frontend Feedbacks on the UI design
 
 
 
 
+## issues with the frontend design
+- emails is not suppose to show at pay with paystack 
+## issues with the backend
+- cannot submit proposal due to the endpoint
+## issues with the profile
+- the profile page has not been completed
+- remove reset with emails from the figma profile 
+- new password and comfirm password 

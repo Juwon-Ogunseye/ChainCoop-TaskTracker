@@ -37,6 +37,15 @@
             }
           },
           {
+            "tag": "completed",
+            "data": {
+              "collapsed": false,
+              "index": 3,
+              "limit": 10,
+              "name": "Completed"
+            }
+          },
+          {
             "tag": "dated",
             "data": {
               "collapsed": false,
@@ -45,15 +54,6 @@
                 "tag": "after",
                 "data": 1
               }
-            }
-          },
-          {
-            "tag": "completed",
-            "data": {
-              "collapsed": false,
-              "index": 4,
-              "limit": 10,
-              "name": "Completed"
             }
           }
         ],
