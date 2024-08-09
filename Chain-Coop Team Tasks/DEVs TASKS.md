@@ -33,7 +33,7 @@
   - Fix the add funds functionality.
   - Address discrepancies between the funds interface created by the UI team and the current implementation.
 ## Backend Task and Implementation
-- [ ] Cloudinary account and keys 📅 2024-08-07
+- [x] Cloudinary account and keys 📅 2024-08-07 ✅ 2024-08-09
 - [ ] project portfolio management 📅 2024-08-12 ⏫ 
 
 ## UI/UX Team Design Feedback
@@ -47,7 +47,7 @@
 ## issues with the frontend design
 - emails is not suppose to show at pay with paystack 
 ## issues with the backend
-- cannot submit proposal due to the endpoint
+- [ ] cannot submit proposal due to the endpoint
 ## issues with the profile
 - the profile page has not been completed
 - remove reset with emails from the figma profile 
