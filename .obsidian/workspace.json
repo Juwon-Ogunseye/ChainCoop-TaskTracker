@@ -16,55 +16,19 @@
             }
           },
           {
-            "id": "aba5675316d7e447",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chain-Coop Team Tasks/DEVs TASKS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3fe81cc2392acfda",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chain-Coop Team Tasks/MARKETING AND CONTENT TASKs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ea3c121c1bb49f5d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chain-Coop Team Tasks/HR AND ORGANIZING TEAM TASKS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e782efa84f4acdcd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chain-Coop Team Tasks/HR AND ORGANIZING TEAM TASKS.md",
+                "file": "Chain-Coop Team Tasks/UI TEAM TASKS.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -130,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chain-Coop Team Tasks/HR AND ORGANIZING TEAM TASKS.md",
+                "file": "Chain-Coop Team Tasks/UI TEAM TASKS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chain-Coop Team Tasks/HR AND ORGANIZING TEAM TASKS.md",
+                "file": "Chain-Coop Team Tasks/UI TEAM TASKS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chain-Coop Team Tasks/HR AND ORGANIZING TEAM TASKS.md"
+                "file": "Chain-Coop Team Tasks/UI TEAM TASKS.md"
               }
             }
           }
@@ -194,11 +158,11 @@
   },
   "active": "e782efa84f4acdcd",
   "lastOpenFiles": [
-    "Chain-Coop Team Tasks/DEVs TASKS.md",
     "Chain-Coop Team Tasks/Website Development Progress.md",
-    "Chain-Coop Team Tasks/HR AND ORGANIZING TEAM TASKS.md",
-    "Chain-Coop Team Tasks/MARKETING AND CONTENT TASKs.md",
     "Chain-Coop Team Tasks/UI TEAM TASKS.md",
+    "Chain-Coop Team Tasks/MARKETING AND CONTENT TASKs.md",
+    "Chain-Coop Team Tasks/HR AND ORGANIZING TEAM TASKS.md",
+    "Chain-Coop Team Tasks/DEVs TASKS.md",
     "Meeting with uiux team.md",
     "README.md",
     "Chain-Coop Team Tasks/UI TEAM TASK.md",

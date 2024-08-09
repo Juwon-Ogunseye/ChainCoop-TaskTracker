@@ -2,16 +2,16 @@ Here’s a revised and organized version of your list:
 
 ---
 
-- [ ] **Project Description Pages** 📅 2024-08-06 🔼 
+- [x] **Project Description Pages** 🔼 📅 2024-08-06 ✅ 2024-08-09
   - The project description pages are not yet ready. 
 
 - [x] **Payment Integration**
   - Payment options for each project are available; they should be referenced in the Figma design.
 
-- [ ] **Button Modification**
+- [x] **Button Modification** ✅ 2024-08-09
   - Remove the "Join DAO" button and replace it with options to vote up or down.
 
-- [ ] **Proposal Owner Information** 📅  
+- [x] **Proposal Owner Information** 📅 ✅ 2024-08-09
   - Add a text box for entering the name of the proposal owner.
 
 - [x] **Wallet Page Icons** ✅ 2024-08-05
@@ -20,13 +20,13 @@ Here’s a revised and organized version of your list:
 - [ ] **Links Card Page Discrepancy**
   - Correct the discrepancies between the actual page on the links card and the page designed by the UI team.
 
-- [ ] **Admin Blog/Newsletter Posting** 📅 2024-08-05 🔼 ➕ 2024-08-05 ⏳ 2024-08-06 
+- [x] **Admin Blog/Newsletter Posting** 🔼 ➕ 2024-08-11 ⏳ 2024-08-11 📅 2024-08-11 ✅ 2024-08-09
   - Implement a feature that allows admins to post the latest development blogs or newsletters from the admin side.
 
-- [ ] **Member Position Upgrades**
+- [x] **Member Position Upgrades** ✅ 2024-08-09
   - Add a settings link that enables upgrading a member to different positions.
 
-- [ ] **Project Admin Panel** 📅 2024-08-06 ⏫ ⏳ 2024-08-06 
+- [x] **Project Admin Panel** ⏫ ⏳ 2024-08-11 📅 2024-08-11 ✅ 2024-08-09
   - The creation of the project admin panel will be handled by the team.
 
 ---
@@ -43,7 +43,7 @@ The UI/UX team has responded to the discussion about implementing a project stat
 - Question by Seane
 
 ## Discrepancy between UI/UX Design and  frontend work
-- [ ] **Wallet Page Icons** 📅 2024-08-05 ⏫ ➕ 2024-08-05 
+- [x] **Wallet Page Icons** ⏫ ➕ 2024-08-05 📅 2024-08-05 ✅ 2024-08-09
   - Address the issue where icons on the wallet page do not match the UI team’s design.
   - [ ] **Links Card Page Discrepancy**
   - [ ] Correct the discrepancies between the actual page on the            links    card and the page designed by the UI team.📅 2024-08-05 🛫 2024-08-05 ⏫ 
