@@ -120,6 +120,3 @@
   - [ ] Submit the registration application and monitor the process.
   - [ ] Report progress in the next meeting.
 
----
-
-You can now paste this directly into Obsidian and use it for your meeting, with the tasks clearly assigned and ready for tracking.
