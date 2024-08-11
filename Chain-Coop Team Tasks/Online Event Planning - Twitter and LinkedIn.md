@@ -94,4 +94,13 @@ A bi-monthly project to organize and execute online events on Twitter and Linked
 - After each event, document what went well, what could be improved, and how the process can be refined for the next event.
 
 ---
+### issues with getting speakers from content king
+- not having folks who are skilled or professional around his social circle
+- we should focus on linkdin and twitter for now.  he will be talking to Rabi a marketer to see how we can optimise our linkdlin profile and revamps it 
+- we should double down and make sure the most important features of the website comes life. when people make payment they should be able to get receipts and all. 
+
+
+
+---
+
 
