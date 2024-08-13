@@ -2,7 +2,7 @@
 
 ---
 
-### Meeting Notes - 2024-08-11
+### Chain Co-op Project and Task Review August 11, 2024
 
 ---
 
@@ -50,8 +50,8 @@
 - **Assigned to:** Juwon
 - **Overview:** Have a meeting with Wema Bank to understand the criteria for setting up an account, API availability, and whether our members need to register using our link and site or directly through the bank.
 - **Action Items:**
-  - [ ] Schedule and attend a meeting with Wema Bank.
-  - [ ] Inquire about the API and how member registration works.
+  - [x] Schedule and attend a meeting with Wema Bank. ✅ 2024-08-13
+  - [x] Inquire about the API and how member registration works. ✅ 2024-08-13
   - [ ] Report findings in the next meeting.
 
 ---
@@ -60,8 +60,8 @@
 - **Assigned to:** Juwon
 - **Overview:** Contact Yellow Card and Bit Mama to explore setting up business accounts and APIs for automatic conversion of member contributions to USD.
 - **Action Items:**
-  - [ ] Send emails to Yellow Card and Bit Mama for business accounts.
-  - [ ] Inquire about API integration for automatic USD conversion and display of current exchange rates.
+  - [x] Send emails to Yellow Card and Bit Mama for business accounts. ✅ 2024-08-13
+  - [x] Inquire about API integration for automatic USD conversion and display of current exchange rates. ✅ 2024-08-13
   - [ ] Follow up and report progress.
 
 ---
@@ -95,8 +95,8 @@
 - **Assigned to:** Juwon
 - **Overview:** Follow up with the new staff we contacted via email.
 - **Action Items:**
-  - [ ] Juwon to call the new staff by Monday to ensure they received our communication and are prepared to proceed.
-  - [ ] Check or uncheck this task as it’s completed.
+  - [x] Juwon to call the new staff by Monday to ensure they received our communication and are prepared to proceed. ✅ 2024-08-13
+  - [x] Check or uncheck this task as it’s completed. ✅ 2024-08-13
 
 ---
 
