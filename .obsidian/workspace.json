@@ -62,9 +62,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d31162c729e3b6b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chain-Coop Team Tasks/Online Event Planning - Twitter and LinkedIn.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -130,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chain-Coop Team Tasks/Work Priorities for the Next Two Weeks.md",
+                "file": "Chain-Coop Team Tasks/Online Event Planning - Twitter and LinkedIn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chain-Coop Team Tasks/Work Priorities for the Next Two Weeks.md",
+                "file": "Chain-Coop Team Tasks/Online Event Planning - Twitter and LinkedIn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chain-Coop Team Tasks/Work Priorities for the Next Two Weeks.md"
+                "file": "Chain-Coop Team Tasks/Online Event Planning - Twitter and LinkedIn.md"
               }
             }
           }
@@ -192,10 +204,11 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "aa5a1f8d646b08f7",
+  "active": "d31162c729e3b6b4",
   "lastOpenFiles": [
-    "Weekly Project Updates & Task Reviews/Meeting Notes - 2024-08-11.md",
+    "Meeting Minutes Tiers & Benefits Planning.md",
     "Chain-Coop Team Tasks/Work Priorities for the Next Two Weeks.md",
+    "Weekly Project Updates & Task Reviews/Meeting Notes - 2024-08-11.md",
     "Chain-Coop Team Tasks/Website Development Progress.md",
     "Chain-Coop Team Tasks/UI TEAM TASKS.md",
     "Chain-Coop Team Tasks/Online Event Planning - Twitter and LinkedIn.md",
