@@ -13,8 +13,8 @@ A bi-monthly project to organize and execute online events on Twitter and Linked
 - **Assigned to:** Seun, Davy, Content King
 - **Deadline:** [1st of every month]
 - **Subtasks:**
-  - [ ] Brainstorm and finalize a topic for the event.
-  - [ ] Decide on the theme that aligns with our organization's goals.
+  - [x] Brainstorm and finalize a topic for the event. ✅ 2024-08-21
+  - [x] Decide on the theme that aligns with our organization's goals. ✅ 2024-08-21
 
 ---
 
