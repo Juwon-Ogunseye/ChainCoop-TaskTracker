@@ -86,9 +86,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "03eefc26355e3e41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chain-Coop Team Tasks/Content Team Meeting Objective 9th Sept.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -154,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Weekly Project Updates & Task Reviews/Meeting Minutes and Task 2024-09-06.md",
+                "file": "Chain-Coop Team Tasks/Content Team Meeting Objective 9th Sept.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Weekly Project Updates & Task Reviews/Meeting Minutes and Task 2024-09-06.md",
+                "file": "Chain-Coop Team Tasks/Content Team Meeting Objective 9th Sept.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Weekly Project Updates & Task Reviews/Meeting Minutes and Task 2024-09-06.md"
+                "file": "Chain-Coop Team Tasks/Content Team Meeting Objective 9th Sept.md"
               }
             }
           }
@@ -216,10 +228,11 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "cbcf0e54fb78102c",
+  "active": "aa5a1f8d646b08f7",
   "lastOpenFiles": [
-    "Chain-Coop Team Tasks/DEVs TASKS.md",
     "Weekly Project Updates & Task Reviews/Meeting Minutes and Task 2024-09-06.md",
+    "Chain-Coop Team Tasks/Content Team Meeting Objective 9th Sept.md",
+    "Chain-Coop Team Tasks/DEVs TASKS.md",
     "Weekly Project Updates & Task Reviews/Meeting Minutes Tiers & Benefits Planning.md",
     "Chain-Coop Team Tasks/Work Priorities for the Next Two Weeks.md",
     "Weekly Project Updates & Task Reviews/Meeting Notes - 2024-08-11.md",
