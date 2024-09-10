@@ -122,9 +122,81 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "39eb1c7dbcdf1286",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "luanch event ideas/Prelaunch webinar.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3c75ae2d894e4eee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "luanch event ideas/Prelaunch and Launch To-Do List for Chain Coop.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6494061bc3180504",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "luanch event ideas/Prelaunch and Launch To-Do List for Chain Coop.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a57364a50cccb0ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "luanch event ideas/partnerhsip ideas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "91c7370520e02cca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "luanch event ideas/Prelaunch and Launch To-Do List for Chain Coop.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "52c9f7e47bc75658",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JTF Meeting.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -190,7 +262,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Weekly Project Updates & Task Reviews/9-8-2024 Meeting Agenda.md",
+                "file": "JTF Meeting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +279,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Weekly Project Updates & Task Reviews/9-8-2024 Meeting Agenda.md",
+                "file": "JTF Meeting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +302,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Weekly Project Updates & Task Reviews/9-8-2024 Meeting Agenda.md"
+                "file": "JTF Meeting.md"
               }
             }
           }
@@ -252,13 +324,21 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "aa5a1f8d646b08f7",
+  "active": "52c9f7e47bc75658",
   "lastOpenFiles": [
-    "Weekly Project Updates & Task Reviews/Content meeting 9-7-2024.md",
+    "luanch event ideas/Prelaunch and Launch To-Do List for Chain Coop.md",
+    "JTF Meeting.md",
+    "luanch event ideas/Prelaunch webinar.md",
+    "luanch event ideas/Main launch idea.md",
+    "luanch event ideas/SAMPLES OF EMAILS WE CAN SEND.md",
+    "luanch event ideas/partnerhsip ideas.md",
+    "luanch event ideas/Mini Hackathon ideas.md",
+    "Chain-Coop Team Tasks/DEVs TASKS.md",
     "Weekly Project Updates & Task Reviews/9-8-2024 Meeting Agenda.md",
+    "luanch event ideas",
+    "Weekly Project Updates & Task Reviews/Content meeting 9-7-2024.md",
     "Chain-Coop Team Tasks/Content Team Meeting Objective 9th Sept.md",
     "Weekly Project Updates & Task Reviews/Meeting Minutes and Task 2024-09-06.md",
-    "Chain-Coop Team Tasks/DEVs TASKS.md",
     "Weekly Project Updates & Task Reviews/Meeting Minutes Tiers & Benefits Planning.md",
     "Chain-Coop Team Tasks/Work Priorities for the Next Two Weeks.md",
     "Weekly Project Updates & Task Reviews/Meeting Notes - 2024-08-11.md",
@@ -271,7 +351,6 @@
     "InsertLinkHere.md",
     "ok",
     "README.md",
-    "Untitled",
     "Meeting with uiux team.md",
     "Chain-Coop Team Tasks/UI TEAM TASK.md",
     "Chain-Coop Team Tasks/DEV TEAM TASKS.md",

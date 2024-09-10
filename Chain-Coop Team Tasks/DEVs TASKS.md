@@ -2,7 +2,7 @@
 
 ---
 
-- [x] **Error Handling**
+- [ ] **Error Handling**
   - Fix the login links from the signup page; currently, they only work when used directly.
   - [  ] Investigate using Google Signup API to simplify the process.
   
