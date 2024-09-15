@@ -189,14 +189,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JTF Meeting.md",
+                "file": "luanch event ideas/Prelaunch webinar.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "335287dda7207304",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Meeting Minutes – Chain Coop Pre-launch.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -262,7 +274,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JTF Meeting.md",
+                "file": "Meeting Minutes – Chain Coop Pre-launch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -279,7 +291,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JTF Meeting.md",
+                "file": "Meeting Minutes – Chain Coop Pre-launch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -302,7 +314,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JTF Meeting.md"
+                "file": "Meeting Minutes – Chain Coop Pre-launch.md"
               }
             }
           }
@@ -324,15 +336,16 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "52c9f7e47bc75658",
+  "active": "335287dda7207304",
   "lastOpenFiles": [
-    "luanch event ideas/Prelaunch and Launch To-Do List for Chain Coop.md",
-    "JTF Meeting.md",
     "luanch event ideas/Prelaunch webinar.md",
-    "luanch event ideas/Main launch idea.md",
+    "Meeting Minutes – Chain Coop Pre-launch.md",
     "luanch event ideas/SAMPLES OF EMAILS WE CAN SEND.md",
+    "luanch event ideas/Prelaunch and Launch To-Do List for Chain Coop.md",
     "luanch event ideas/partnerhsip ideas.md",
     "luanch event ideas/Mini Hackathon ideas.md",
+    "luanch event ideas/Main launch idea.md",
+    "JTF Meeting.md",
     "Chain-Coop Team Tasks/DEVs TASKS.md",
     "Weekly Project Updates & Task Reviews/9-8-2024 Meeting Agenda.md",
     "luanch event ideas",
@@ -355,7 +368,6 @@
     "Chain-Coop Team Tasks/UI TEAM TASK.md",
     "Chain-Coop Team Tasks/DEV TEAM TASKS.md",
     "Untitled.canvas",
-    "Overall TASK.md",
     "Chain-Coop Team Tasks",
     "Untitled 1.canvas"
   ]
